@@ -1,6 +1,6 @@
 cask "wayfinder" do
-  version "1.3.1"
-  sha256 "ca866b6bc09dda0771fdb93401983039e421ce458582c633c71e94d2aefbecfa"
+  version "1.3.2"
+  sha256 "7cc86ae92a86d2231b7bed0bbf4f1fd11c70ece64b05a6a1342c5b1067bd8258"
 
   url "https://downloads.versaminds.live/wayfinder/Wayfinder-#{version}.dmg"
   name "Wayfinder"
