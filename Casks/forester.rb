@@ -1,6 +1,6 @@
 cask "forester" do
-  version "1.1.0"
-  sha256 "b66c9582d060244a9f69506b703114b8e0168152eecf2129e6c8ae8315ea1eb7"
+  version "1.1.1"
+  sha256 "3cc97aa9886ba45e8f6ef665fdb780976591588fdf76991957b07c42763fccf9"
 
   url "https://github.com/versaminds/forester/releases/download/v#{version}/Forester.dmg"
   name "Forester"
